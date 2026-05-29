@@ -53,8 +53,11 @@ Any changes made through the Python application are reflected in the database an
 
 ---
 
-## 📊 Dashboard Preview
+<h2>📊 Dashboard Preview</h2>
 
+<p align="center">
+  <img src="DATABASE_DASHBOARD.png" width="900">
+</p>
 
 
 ---
